@@ -1,0 +1,23 @@
+# 📦 AjudaSolidária - Plataforma de Doações
+
+
+
+## 🎯 Objetivo
+Conectar doadores a beneficiários de forma eficiente e transparente, contribuindo para os **ODS 9** (Indústria, Inovação e Infraestrutura).
+
+## ✨ Funcionalidades
+- ✅ Cadastro de doadores e beneficiários
+- 📦 Listagem de itens disponíveis para doação
+- 🔍 Sistema de busca/filtro por categoria
+- 📊 Dashboard administrativo
+- 🔄 Status de doações em tempo real
+
+## 🛠️ Tecnologias
+| Área       | Tecnologias |
+|------------|-------------|
+| Frontend   | HTML5, CSS3, JavaScript, Bootstrap |
+| Backend    | Node.js, Express |
+| Banco      | MySQL |
+| DevOps     | GitHub Actions, Heroku |
+
+## 📂 Estrutura do Projeto
